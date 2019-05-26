@@ -13,6 +13,6 @@ against a spell-check dictionary, which is stored as a tree of successive
 letters to facilitate efficient searching. User-submitted strings are then 
 checked against this list of valid words.
 
-![Main menu](./screenshots/menu.png?raw=true "Main Menu")
-![Midgame](./screenshots/midgame.png?raw=true "Halfway through the game")
-![End of game](./screenshots/end.png?raw=true "Solution shown at end of game")
+![Main menu](src/screenshots/menu.png?raw=true "Main Menu")
+![Midgame](src/screenshots/midgame.png?raw=true "Halfway through the game")
+![End of game](src/screenshots/end.png?raw=true "Solution shown at end of game")
