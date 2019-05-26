@@ -12,3 +12,7 @@ Upon generation, the board is "solved" by searching all possible substrings
 against a spell-check dictionary, which is stored as a tree of successive 
 letters to facilitate efficient searching. User-submitted strings are then 
 checked against this list of valid words.
+
+![Main menu](./screenshots/menu.png?raw=true "Main Menu")
+![Midgame](./screenshots/midgame.png?raw=true "Halfway through the game")
+![End of game](./screenshots/end.png?raw=true "Solution shown at end of game")
